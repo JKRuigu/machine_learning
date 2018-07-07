@@ -3,9 +3,7 @@
 
 To get started you should have the following. <br>
 1.python installed [link](https://www.python.org/downloads/) <br>
-
-           I am using Python 2 to use python 3, add paranthesis for all the print statements
-
+<p> I am using Python 2 to use python 3, add paranthesis for all the print statements</p>
 2. sklearn installed
 
     ```bash
