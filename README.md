@@ -1,6 +1,6 @@
-##Machine Learning
+**##Machine Learning**
 
-##Simple machine learning project using sklearn library
+**##Simple machine learning project using sklearn library**
 
 To get started you should have the following. <br>
 1.python installed [link](https://www.python.org/downloads/) * I am using Python 2 to use python 3, add paranthesis for all the print statements*
@@ -10,10 +10,10 @@ To get started you should have the following. <br>
 3. A text editor <br>
     Am using [Atom](https://atom.io/) make sure you have script package installed.To run script in atom just ``ctrl + shift + B``   
   
-  **Classifier Methods used** <br>
-  1.[Support Vector Machines](http://scikit-learn.org/stable/modules/svm.html) <br>
-  2.[Decision Tree Classifier ](http://scikit-learn.org/stable/modules/generated/sklearn.tree.DecisionTreeClassifier.html) <br>
-  3.[Random Forest Classifier](http://scikit-learn.org/stable/modules/generated/sklearn.ensemble.RandomForestClassifier.html)<br>
+**Classifier Methods used** <br>
+  -[Support Vector Machines](http://scikit-learn.org/stable/modules/svm.html) <br>
+  -[Decision Tree Classifier ](http://scikit-learn.org/stable/modules/generated/sklearn.tree.DecisionTreeClassifier.html) <br>
+  -[Random Forest Classifier](http://scikit-learn.org/stable/modules/generated/sklearn.ensemble.RandomForestClassifier.html)<br>
 
 **HINT**:*Try to comment out the code to get the most out of it.*
 
