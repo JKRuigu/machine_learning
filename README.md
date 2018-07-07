@@ -1,4 +1,5 @@
-<h2>Machine Learning <h2>
+##Machine Learning
+
 <h3>Simple machine learning project using sklearn library<h3>
 
 To get started you should have the following. <br>
@@ -8,9 +9,8 @@ To get started you should have the following. <br>
 2. sklearn installed ``pip install numpy scipy scikit-learn``
 
 3. A text editor <br>
-    Am using **[Atom](https://atom.io/)** make sure you have script package installed.To run script in atom just ``ctrl + shift + B``   
+    Am using [Atom](https://atom.io/) make sure you have script package installed.To run script in atom just ``ctrl + shift + B``   
   
-
   **Classifier Methods used** <br>
   1.[Support Vector Machines](http://scikit-learn.org/stable/modules/svm.html) <br>
   2.[Decision Tree Classifier ](http://scikit-learn.org/stable/modules/generated/sklearn.tree.DecisionTreeClassifier.html) <br>
