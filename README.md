@@ -1,6 +1,6 @@
-<h2>Machine Learning<h2>
+##Machine Learning
 
-<h3>Simple machine learning project using sklearn library<h3>
+##Simple machine learning project using sklearn library
 
 To get started you should have the following. <br>
 1.python installed [link](https://www.python.org/downloads/) <br>
