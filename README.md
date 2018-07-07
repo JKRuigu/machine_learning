@@ -22,7 +22,7 @@ To get started you should have the following. <br>
   1.[Support Vector Machines](http://scikit-learn.org/stable/modules/svm.html) <br>
   2.[Decision Tree Classifier ](http://scikit-learn.org/stable/modules/generated/sklearn.tree.DecisionTreeClassifier.html) <br>
   3.[Random Forest Classifier](http://scikit-learn.org/stable/modules/generated/sklearn.ensemble.RandomForestClassifier.html)<br>
-___
+
 **HINT**:*Try to comment out the code to get the most out of it.*
 
 Example:**How to change from one Classifier to another** *(Eg.From**svm** to **Random Forest Classifier**)* <br>
