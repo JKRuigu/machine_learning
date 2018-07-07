@@ -16,7 +16,7 @@ To get started you should have the following.
   * [Decision Tree Classifier ](http://scikit-learn.org/stable/modules/generated/sklearn.tree.DecisionTreeClassifier.html) <br>
   * [Random Forest Classifier](http://scikit-learn.org/stable/modules/generated/sklearn.ensemble.RandomForestClassifier.html)<br>
 
-**HINT**:*Try to comment out the code to get the most out of it.*
+**HINT**:*Try to uncomment the code to get the most out of it.*
 
 Example:**How to change from one Classifier to another** *(Eg.From**svm** to **Random Forest Classifier**)* <br>
 
