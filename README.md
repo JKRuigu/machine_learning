@@ -1,4 +1,4 @@
-##Machine Learning
+<h2>Machine Learning<h2>
 
 <h3>Simple machine learning project using sklearn library<h3>
 
