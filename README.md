@@ -4,9 +4,7 @@
 
 To get started you should have the following.
 
-1. python installed [link](https://www.python.org/downloads/)
-
-  *I am using Python 2 to use python 3, add paranthesis for all the print statements*
+1. python installed [link](https://www.python.org/downloads/)  *I am using Python 2 to use python 3, add paranthesis for all the print statements*
    
 2. sklearn installed ``pip install numpy scipy scikit-learn``
 
@@ -14,9 +12,9 @@ To get started you should have the following.
     Am using [Atom](https://atom.io/) make sure you have script package installed.To run script in atom just ``ctrl + shift + B``   
   
 **Classifier Methods used** <br>
-  -[Support Vector Machines](http://scikit-learn.org/stable/modules/svm.html) <br>
-  -[Decision Tree Classifier ](http://scikit-learn.org/stable/modules/generated/sklearn.tree.DecisionTreeClassifier.html) <br>
-  -[Random Forest Classifier](http://scikit-learn.org/stable/modules/generated/sklearn.ensemble.RandomForestClassifier.html)<br>
+  * [Support Vector Machines](http://scikit-learn.org/stable/modules/svm.html) <br>
+  * [Decision Tree Classifier ](http://scikit-learn.org/stable/modules/generated/sklearn.tree.DecisionTreeClassifier.html) <br>
+  * [Random Forest Classifier](http://scikit-learn.org/stable/modules/generated/sklearn.ensemble.RandomForestClassifier.html)<br>
 
 **HINT**:*Try to comment out the code to get the most out of it.*
 
