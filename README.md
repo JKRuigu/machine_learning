@@ -4,12 +4,8 @@
 To get started you should have the following. <br>
 1.python installed [link](https://www.python.org/downloads/) <br>
 <p> I am using Python 2 to use python 3, add paranthesis for all the print statements</p>
-2. sklearn installed
 
-    ```bash
-    pip install numpy scipy scikit-learn
-
-    ```
+2. sklearn installed ``pip install numpy scipy scikit-learn``
 
 3. A text editor <br>
     Am using **[Atom](https://atom.io/)** make sure you have script package installed.To run script in atom just ``ctrl + shift + B``   
