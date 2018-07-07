@@ -4,9 +4,9 @@
 
 To get started you should have the following.
 
-1.python installed 
+1.python installed [link](https://www.python.org/downloads/)
 
-   [link](https://www.python.org/downloads/) * I am using Python 2 to use python 3, add paranthesis for all the     print statements*
+* I am using Python 2 to use python 3, add paranthesis for all the print statements*
    
 2. sklearn installed ``pip install numpy scipy scikit-learn``
 
