@@ -83,7 +83,7 @@ clf = RandomForestClassifier()
  3.Run the script,you should get the following, but can be with different figures. In my case I have a 94.44 % accuracy.
  ```
  [1 2 0 1 2 0 0 2 0 0 1 0 2 1 0 1 2 1]
-94.4444444444
+94.4444444444 # Accuracy in %
 [Finished in 0.668s]
  ```
  You have successfully used Random Forest Classifier. Try to use the Decision Tree Classifier following the same process.
