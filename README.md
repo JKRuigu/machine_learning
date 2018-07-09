@@ -80,7 +80,7 @@ clf = RandomForestClassifier()
  ```
  We have simply commented out ``clf = svm.SVC(kernel='linear')`` and uncommented ``clf = RandomForestClassifier()``
  
- 3.Run the script,you should get the following, but can be with different figures. In my case I have a **94.4 % accuracy **
+ 3.Run the script,you should get the following, but can be with different figures. In my case I have a 94.44 % accuracy.
  ```
  [1 2 0 1 2 0 0 2 0 0 1 0 2 1 0 1 2 1]
 94.4444444444
