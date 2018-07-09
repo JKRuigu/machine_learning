@@ -88,6 +88,6 @@ clf = RandomForestClassifier()
  ```
  You have successfully used Random Forest Classifier. Try to use the Decision Tree Classifier following the same process.
 ## Support
-- **Buy Me a cup of coffee** [link](https://buymeacoff.ee/UOoP6At7H) <br>
+- **Buy Me a cup of coffee** [link](https://buymeacoff.ee/UOoP6At7H) 
 
 - **Give this page a star ): **
