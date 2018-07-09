@@ -1,6 +1,6 @@
-**Machine Learning**
+ ## Machine Learning
 
-**Simple machine learning project using sklearn library**
+## Simple machine learning project using sklearn library
 
 To get started you should have the following.
 
@@ -87,5 +87,5 @@ clf = RandomForestClassifier()
 [Finished in 0.668s]
  ```
  You have successfully used Random Forest Classifier. Try to use the Decision Tree Classifier following the same process.
-
+## Support
 **Buy Me a cup of coffee** [link](https://buymeacoff.ee/UOoP6At7H)
