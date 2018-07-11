@@ -90,5 +90,5 @@ clf = RandomForestClassifier()
 ## Support
 - **Buy Me a cup of coffee** [link](https://buymeacoff.ee/UOoP6At7H) 
 
-- Give this page a star ): 
+- Star this page ): 
 - Help us to improve this page.
