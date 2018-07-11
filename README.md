@@ -17,7 +17,7 @@ To get started you should have the following.
   * [Random Forest Classifier](http://scikit-learn.org/stable/modules/generated/sklearn.ensemble.RandomForestClassifier.html)<br>
 
 **HINT**:*Try to uncomment the some code to get the most out of it.*
-
+## Usage
 Example:**How to change from one Classifier to another** *(Eg.From**svm** to **Random Forest Classifier**)* <br>
 
 1. First we need to import **RandomForestClassifier** in a code by commenting out the code in ml.py file as follows <br>
